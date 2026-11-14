@@ -3,7 +3,7 @@
     "name": "Neeru Sahu",
     "title": "home maker",
     "email": "neerusahu2013@gmail.com",
-    "phone": "09711279592",
+    "phone": "09711276986",
     "location": "Ghaziabad",
     "linkedin": "",
     "topmate": "",
@@ -19,12 +19,12 @@
     }
   ],
   "hero": {
-    "status": "",
+    "status": "Neeru Sahu",
     "greeting": "Hi, I’m",
     "firstName": "Neeru",
     "lastName": "Sahu",
     "role": "home maker",
-    "summary": "",
+    "summary": "i am home maker",
     "primaryButton": {
       "label": "View Projects",
       "href": "#work"
@@ -105,7 +105,7 @@
     "chip": "Your turn",
     "titleA": "Worked with me?",
     "titleB": "Share your experience",
-    "text": "Your testimonial helps others know what to expect.",
+    "text": "dsdsd",
     "button": "Leave a Testimonial"
   },
   "blog": {
